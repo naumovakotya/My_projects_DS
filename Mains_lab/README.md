@@ -1,4 +1,5 @@
-# [Machine Learning Engineer - Test Task (2024)](https://github.com/naumovakotya/My_projects_DS/blob/main/Mains_lab/MLE_NaumovaE.ipynb)
+# Machine Learning Engineer - Test Task (2024)
+[ipynb](https://github.com/naumovakotya/My_projects_DS/blob/main/Mains_lab/MLE_NaumovaE.ipynb)
 
 [Link to Task Description](https://incredible-tulip-5c3.notion.site/Machine-learning-engineer-2024-e4c30223002a4eebb33d2cdeb8f81fb1)
 
